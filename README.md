@@ -24,11 +24,10 @@ Beyond my professional role, I am a passionate advocate for **Open Source**, hav
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | `Python` `Golang` `TypeScript` `JavaScript` `C++` `Rust (Learning)` |
-| **Backend** | `FastAPI` `Node.js` `Express` `Django` `GraphQL` `REST` |
+| **Languages** | `Python` `Golang` `C++` `Rust (Learning)` |
+| **Backend** | `FastAPI` `GraphQL` `REST` |
 | **Data & Cache** | `PostgreSQL` `MySQL` `MongoDB` `Redis` `Prisma` |
 | **Cloud & DevOps** | `Docker` `Kubernetes` `AWS` `GitHub Actions` `Nginx` `BASH` |
-| **Frontend** | `React` `Next.js` `Redux` `Tailwind CSS` |
 
 ---
 
